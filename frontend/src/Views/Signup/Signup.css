@@ -1,0 +1,14 @@
+.signupStyle {
+    text-align: center;
+    margin-top: 5%;
+    font-family: "Roboto", sans-serif;
+}
+
+.signupStyle > h2 {
+    color: #bd93f9;
+    font-size: 3em;
+}
+
+.formStyle {
+    margin-top: 2%;
+}

@@ -1,0 +1,184 @@
+[
+    {
+        "uuid": "c3365edd-ccf2-42b2-a762-7313a356c8ba",
+        "name": "iPhone Xs",
+        "price": 1317.3,
+        "type": "smartphone",
+        "enable": true
+    },
+    {
+        "uuid": "94918a96-8e9c-4f36-bf20-5ab234f165a7",
+        "name": "iPhone Xs Max",
+        "price": 1357.8,
+        "type": "smartphone",
+        "enable": false
+    },
+    {
+        "uuid": "0d1706ad-a48b-42ea-b13e-fb9e336253a3",
+        "name": "Macbook Pro 13\"",
+        "price": 1320.6,
+        "type": "laptop",
+        "enable": true
+    },
+    {
+        "uuid": "d75ff2ea-971f-4a4f-868e-3558f7235f3b",
+        "name": "Macbook Pro 13\"",
+        "price": 2140.3,
+        "type": "laptop",
+        "enable": true
+    },
+    {
+        "uuid": "c8516d29-001e-4def-aac4-78b66da3f094",
+        "name": "Macbook Air 11\"",
+        "price": 999.9,
+        "type": "laptop",
+        "enable": true
+    },
+    {
+        "uuid": "69839b1e-7636-4ccb-85af-be365f9cae74",
+        "name": "Macbook Air 13\"",
+        "price": 1100.5,
+        "type": "laptop",
+        "enable": false
+    },
+    {
+        "uuid": "72c4aa11-cd3c-4b35-9ea5-061d173c89ae",
+        "name": "iMac 21\"",
+        "price": 950.0,
+        "type": "computer",
+        "enable": true
+    },
+    {
+        "uuid": "1ddc11f4-b60e-4795-86ed-3700eb55bd82",
+        "name": "iMac 27\"",
+        "price": 1200.5,
+        "type": "computer",
+        "enable": false
+    },
+    {
+        "uuid": "67233d63-bcd8-4c1e-bc01-b6ddbbb87ea6",
+        "name": "Apple Watch 4",
+        "price": 399.6,
+        "type": "smartwatch",
+        "enable": true
+    },
+    {
+        "uuid": "16bf3088-1eda-47c5-865e-9c930b506d44",
+        "name": "iPad Pro 11\"",
+        "price": 799.99,
+        "type": "tablet",
+        "enable": false
+    },
+    {
+        "uuid": "6f7930c4-2606-4394-88eb-97b344f5beb4",
+        "name": "iPad Pro 12.9\"",
+        "price": 999.3,
+        "type": "tablet",
+        "enable": false
+    },
+    {
+        "uuid": "8ce61893-4d71-4543-b47e-997f2b83acee",
+        "name": "iPad Air",
+        "price": 499,
+        "type": "tablet",
+        "enable": false
+    },
+    {
+        "uuid": "22688738-bcef-4779-ba72-5d365563eadd",
+        "name": "iPad Mini",
+        "price": 699.9,
+        "type": "tablet",
+        "enable": false
+    },
+    {
+        "uuid": "84c2cb21-9fbe-46f5-9efc-a5504217370a",
+        "name": "iPad",
+        "price": 429.99,
+        "type": "tablet",
+        "enable": true
+    },
+    {
+        "uuid": "a47ac536-0d9c-4a7b-b968-058ca7e2d633",
+        "name": "Macbook Pro 16\"",
+        "price": 2399.99,
+        "type": "laptop",
+        "enable": true
+    },
+    {
+        "uuid": "922562df-0fd2-401f-adf1-6b053aee0430",
+        "name": "iMac Pro",
+        "price": 4999.9,
+        "type": "computer",
+        "enable": true
+    },
+    {
+        "uuid": "9e293696-1e97-43af-8d7e-6019033796f7",
+        "name": "Mac Pro",
+        "price": 6999.42,
+        "type": "computer",
+        "enable": true
+    },
+    {
+        "uuid": "78df26aa-0993-4b1c-95ce-2e6a6d1cce05",
+        "name": "Mac Mini i3",
+        "price": 799.69,
+        "type": "computer",
+        "enable": true
+    },
+    {
+        "uuid": "e032670b-8a72-4e2e-84d6-4f92569676fe",
+        "name": "Mac Mini i5",
+        "price": 1099.9,
+        "type": "computer",
+        "enable": true
+    },
+    {
+        "uuid": "1cc32502-374b-43ca-8627-0bb3fac2d6e0",
+        "name": "Pro Display XDR",
+        "price": 999999999.99,
+        "type": "screen",
+        "enable": false
+    },
+    {
+        "uuid": "2510a1e0-c2a6-4704-ab76-f08cc96fd994",
+        "name": "Apple Watch 5",
+        "price": 499.88,
+        "type": "smartwatch",
+        "enable": true
+    },
+    {
+        "uuid": "e731a695-83b1-4483-9db3-000066ea6a10",
+        "name": "Apple Watch 3",
+        "price": 199.9,
+        "type": "smartwatch",
+        "enable": true
+    },
+    {
+        "uuid": "179b5587-5d1e-4ea4-a09a-081581dbb09d",
+        "name": "Airpods",
+        "price": 130.0,
+        "type": "earphone",
+        "enable": false
+    },
+    {
+        "uuid": "6642c131-426d-4903-9873-4228827e985d",
+        "name": "Airpods 2",
+        "price": 179.24,
+        "type": "earphone",
+        "enable": false
+    },
+    {
+        "uuid": "129051b5-cb12-445b-a31b-1f65e982ba20",
+        "name": "AirPod Pro",
+        "price": 249.0,
+        "type": "earphone",
+        "enable": false
+    },
+    {
+        "uuid": "9b372425-b613-4b77-a80b-4439eacc3239",
+        "name": "iPhone 11 Pro Max",
+        "price": 1345.7,
+        "type": "smartphone",
+        "enable": true
+    }
+]

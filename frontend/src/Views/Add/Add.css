@@ -1,0 +1,14 @@
+.addStyle {
+    text-align: center;
+    margin-top: 5%;
+    font-family: "Roboto", sans-serif;
+}
+
+.addStyle > h2 {
+    font-size: 3em;
+    color: #bcc2cd;
+}
+
+.formStyle {
+    margin-top: 2%;
+}

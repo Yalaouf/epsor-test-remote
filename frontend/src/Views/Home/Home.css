@@ -1,0 +1,27 @@
+.homeDesign {
+    text-align: center;
+}
+
+.homeDesign > h2 {
+    font-size: 3em;
+    color: #ffb86c;
+    font-family: "Roboto", sans-serif;
+}
+
+.products {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 3%;
+}
+
+.profil {
+    margin-top: 3%;
+}
+
+.greeting {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 1%;
+}
